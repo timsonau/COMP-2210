@@ -1,4 +1,4 @@
-# COMP-3210
+# COMP-2210
 Fundamentals of Computing II with Dr. Dean Hendrix
 
 ## About the course
